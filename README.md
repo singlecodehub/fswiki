@@ -28,6 +28,11 @@ Full stack development is the process of development both frontend and backend o
 | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rail" alt="Rail" width="55" height="55"/> |
 
 
+|  Frameworks | Icons | Links |
+|---|---|---|
+<!-- |   | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rail" alt="Rail" width="55" height="55"/> | -->
+| Django | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/>| [Django](https://) |
+
 ## :hammer: Popular stacks in full stack Development 
 
 Javascript based stacks:
