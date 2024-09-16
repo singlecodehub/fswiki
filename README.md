@@ -4,9 +4,16 @@ Knowledge hub for full stack developer or development. List of development tools
 
 ### :point_right: Table of Content
 
+- [What is full stack development?](https://)
 - [Popular Full stack Framework](#hash-fullstack-framework)
 
-### :hash: Fullstack Framework
+### :question: What is full stack development?
+
+Full stack development is the process of development both frontend and backend of applications. Any application has a frontend (use-facing) and component and a backend (database and logic) component. The frontend contains the user inferface and code related to the user interactions with the application. The backend contains all the cod required for the application to run, including integrations with data systems, communicating with other applications, and processing data.
+
+**A full-stack application is a software application that encompasses both frontend and backend in a single codebase.**
+
+### :hash: Popular  Fullstack Framework
 
 |  Django | Laravel | Ruby on Rail |
 |---|---|---|
